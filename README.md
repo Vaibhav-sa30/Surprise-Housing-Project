@@ -64,5 +64,10 @@ For some purpose, the company has collected a dataset from the sale of houses in
 - **BsmtFinType2**: Rating of basement finished area(if multiple types)
 - **BsmtFinSF2**: Type 2 finished square feet
 - **BsmtUnfSF**: Unfinished square feet of basement area
-- 
+- **TotalBsmtSF**: Total square feet of basement area
+- **Heating**: Type of heating
+- **HeatingQC**: Heating quality and condition
+-
+-
+
   
