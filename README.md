@@ -45,5 +45,9 @@ For some purpose, the company has collected a dataset from the sale of houses in
 - HouseStyle: Style of dwelling
 - OverallQual: Rates the overall material and finish of the house
 - OverallCond: Rates the overall condition of the house
-- YearBuilt: Original construction date 
+- YearBuilt: Original construction date
+- YearRemodAdd: Remodel date(same as construction date, if no remodelling has been done)
+- RoofStyle: Type of roof
+- RoofMatl: Roof Material
+- Exterior1st: Exterior covering on house
   
