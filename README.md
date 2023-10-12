@@ -40,5 +40,10 @@ For some purpose, the company has collected a dataset from the sale of houses in
 - LandSlope: Slope of property
 - Neighborhood: Physical locations within Ames city limits
 - Condition1: Proximity to various conditions
-- Conditions1: 
+- Conditions2: Proximity to various conditions (if more than one is present)
+- BldgType: Type of dwelling
+- HouseStyle: Style of dwelling
+- OverallQual: Rates the overall material and finish of the house
+- OverallCond: Rates the overall condition of the house
+- YearBuilt: Original construction date 
   
