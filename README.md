@@ -50,4 +50,13 @@ For some purpose, the company has collected a dataset from the sale of houses in
 - **RoofStyle**: Type of roof
 - **RoofMatl**: Roof Material
 - **Exterior1st**: Exterior covering on house
+- **Exterior2nd**: Exterior covering on house(if more than one covering)
+- **MasVnrType**: Masonry veneer type
+- **MasVnrArea**: Masonry veneer area in square feet
+- **ExterQual**: Evaluates the quality of the material on the exterior
+- **ExterCond**: Evaluates the present condition of the material
+- **Foundation**: Type of foundation
+- **BsmtQual**: Evaluates the height of the basement
+- **BsmtCond**: Evaluates the general condition of the basement
+- **BsmtExposure**
   
