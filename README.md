@@ -18,8 +18,8 @@ For some purpose, the company has collected a dataset from the sale of houses in
 
 ### Understanding The Dataset
 
-- MSSubclass: Identifies the type of dwelling involved in the sale.
-- MSZonning: Identifies the general zoning classification of the sale.
+- **MSSubclass**: Identifies the type of dwelling involved in the sale.
+- **MSZonning**: Identifies the general zoning classification of the sale.
   - A Agriculture
   - C Commercial
   - FV Floating Village Residential
@@ -28,26 +28,26 @@ For some purpose, the company has collected a dataset from the sale of houses in
   - RL Residential Low Density
   - RP Residential Low-Density Park
   - RM Residential Medium Density
-- LotFrontage: Linear feet of street connected to the property
-- LotArea: Lot size in square feet
-- Street: Type of road access to property
+- **LotFrontage**: Linear feet of street connected to the property
+- **LotArea**: Lot size in square feet
+- **Street**: Type of road access to property
   - Grvl Gravel
-- Alley: Type of alley access to property
-- LotShape: General shape of property
-- LandContour: Flatness of the property
-- Utilities: Type of utilities available
-- LotConfig: Lot Configuration
-- LandSlope: Slope of property
-- Neighborhood: Physical locations within Ames city limits
-- Condition1: Proximity to various conditions
-- Conditions2: Proximity to various conditions (if more than one is present)
-- BldgType: Type of dwelling
-- HouseStyle: Style of dwelling
-- OverallQual: Rates the overall material and finish of the house
-- OverallCond: Rates the overall condition of the house
-- YearBuilt: Original construction date
-- YearRemodAdd: Remodel date(same as construction date, if no remodelling has been done)
-- RoofStyle: Type of roof
-- RoofMatl: Roof Material
-- Exterior1st: Exterior covering on house
+- **Alley**: Type of alley access to property
+- **LotShape**: General shape of property
+- **LandContour**: Flatness of the property
+- **Utilities**: Type of utilities available
+- **LotConfig**: Lot Configuration
+- **LandSlope**: Slope of property
+- **Neighborhood**: Physical locations within Ames city limits
+- **Condition1**: Proximity to various conditions
+- **Conditions2**: Proximity to various conditions (if more than one is present)
+- **BldgType**: Type of dwelling
+- **HouseStyle**: Style of dwelling
+- **OverallQual**: Rates the overall material and finish of the house
+- **OverallCond**: Rates the overall condition of the house
+- **YearBuilt**: Original construction date
+- **YearRemodAdd**: Remodel date(same as construction date, if no remodelling has been done)
+- **RoofStyle**: Type of roof
+- **RoofMatl**: Roof Material
+- **Exterior1st**: Exterior covering on house
   
